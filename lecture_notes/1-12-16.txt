@@ -1,0 +1,68 @@
+Computer Programming in C
+  computer consists of hardware and software
+    hardware includes all tangible components of a computer
+    solftware is intangible (operating system, applicaitons)
+  understanding hardware helps us understand software
+
+Hardware
+  most computers have similar components
+    input
+    processor
+    memory
+    output
+
+Memory
+  memory holds
+    programs
+    data for the computer to process
+    the results of intermediate processing
+  two kinds
+    main
+    auxiliary
+
+Main memory
+  working memory which stores
+    the current program
+    the data the program is using
+    the results of iintermediate calculations
+  referred to as RAM (Random Access Memory)
+
+Auxiliary Memory
+  referred to as secondary memory
+  includes media such as disk drives, dvds, flash drives, etc
+  more of less permanent (nonvolatile)
+  usually measured in high gigabytes (eg 500gb hard drive)
+
+Units of Storage
+  a bit is a value either 0 or 1
+  byte is 8 bits
+  a kilobyte is 1024 bytes
+  a megabyte is 1024 kilobytes
+  a gigabyte is 1024 megabytes
+  etc.
+  byte is smallest amount of info that can be referenced in memory by address
+
+Data Storage
+  modern computers store data as bytes in memory
+  a byte can represent a single characgter
+  eacy byte is memory is represented by an address
+  a computer will continuously read data from and write data to various memory locations during the execution of a program
+
+Software
+  software are collections of related instructions that are stored in memory and executed by the CPU
+  each line is an instruction to the processor
+  instructions must be in the language of the processor (machine language)
+
+High-Level Languages (HLL)
+  machine language is hard for humans to understnad
+  programmers write prorams in high level languates (BASIC, C, Java, Prolog)
+  a program written in a HLL is called source code
+  source code ins translated to machine language by a compiler
+
+Compilers
+  a compiler translatees a program from a HLL to low-level machine language
+  the result of compiling source files is object files
+  object files are then linked to become an executable file
+  many times, HLLs require a different compiler for each type of computer or operating system
+
+

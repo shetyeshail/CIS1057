@@ -1,0 +1,31 @@
+COMPUTER PROGRAMMING IN C
+
+main is a special type of function
+printf is a function which is defined in stdio
+the linker is going to find the stdio.h file and link it to the final program
+
+OPERATING SYSTEM
+  os is a special type of software
+  program manages all other application software
+  it has the responsibility of:
+    communicating w/ th euser
+    allocating resources(CPU time, memory, etc)
+    connecting IO devices w/ running programs
+    transferring data b/w main and secondary memory
+
+  to generalize, the os manages processes and resources
+  examples: win, osx, linux
+  machine usually has a single running os
+    many have multiple installed
+    can run multiple simultaneously using virtual machines
+
+SOFTWARE DEVELOPMENT
+  a problem solving process
+    specify problem
+    analyze problem
+    design algorithm
+    implement algorithm
+    test program
+    maintain program
+
+
